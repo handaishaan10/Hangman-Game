@@ -4,15 +4,15 @@ The Hangman Game is a classic word-guessing game implemented with Python and Tki
 # Installation
 
 #To clone the repository, use:
-git clone https://github.com/handaishaan10/hangman-game.git
+*git clone https://github.com/handaishaan10/hangman-game.git*
 
 Alternatively, download the ZIP file and extract it.
 
 #Navigate to the Project Directory:
-cd hangman-game
+*cd hangman-game*
 
 #Run the Game:
-python hangman_game.py
+*python hangman_game.py*
 
 # Gameplay 
 
